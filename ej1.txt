@@ -1,2 +1,6 @@
-lalala
+init programa
+cambios de archivo
+nuevas lineas
+# Ahora me tooca comunicar a mi entrenador de conjuros que voy a crear una nueva pozima contra el sueño
+
 
